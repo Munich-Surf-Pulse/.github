@@ -1,5 +1,5 @@
 
-# 🌊 Munich Surf Pulse
+# 🌊 [Munich Surf Pulse](https://munich-surf-pulse.de)
 
 <div style="display: flex; justify-content: center">
 <img src="./logo_black.png" alt="Munich Surf Pulse" style="height:200px;"/>
